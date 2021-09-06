@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="The Utest user" skipped="0" tests="1" time="98.62" timestamp="2021-09-06 01:34:07"><testcase name="Successful user creation"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.choucair.reto.pruebaraymer.tasks.RegisterUserUtest.performAs(RegisterUserUtest.java:15)&#13;
+co.com.choucair.reto.pruebaraymer.stepdefinitions.RegisterUserStepDefinitions.heUserCreateAnAccountFillingAllFields(RegisterUserStepDefinitions.java:34)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
